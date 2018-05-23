@@ -1,2 +1,1 @@
-# SWP2
-국민대 소프트웨어 프로젝트
+"# Software Project" 
